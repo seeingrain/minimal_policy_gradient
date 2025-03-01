@@ -1,6 +1,6 @@
 A minimal implementation of Policy Gradient in reinforcement learning. 
 
-中文视频教程：【大白话强化学习之 Policy Gradient（导言）】 https://www.bilibili.com/video/BV1k99VYQECf/?share_source=copy_web&vd_source=2aba9850707692352c51dabec96cb172
+中文视频教程：【大白话强化学习之 Policy Gradient】 https://space.bilibili.com/90303434/lists/4898073?type=season
 
 Our target is to keep the code easy enough to read and understand the theory behind gradient policy mathematical derivation:
 

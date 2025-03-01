@@ -64,6 +64,7 @@ def train():
     played_episodes = 0
     continuous_good = False
 
+    # Collect `batch_size` episodes for later policy gradient calculation
     while(True):
         batch_trajectories = []
 
