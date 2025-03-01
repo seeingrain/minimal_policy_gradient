@@ -14,7 +14,7 @@ call `train()` to start training. Press `S` to save a checkpoint, press `Q` to a
 
 We are using CartPole-v0 as an example to train. The training should converge to max steps (500 steps) around **200 to 1000** steps.
 
-![training](C:\Users\admin\minimal_policy_gradient\training.png)
+![training](training.png)
 
 
 
